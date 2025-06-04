@@ -9,11 +9,9 @@ sections:
       type: TitleBlock
     subtitle: oppure telecomandato
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      un robot montato e codificato da LEONARDO MARRANZANI
     actions:
-      - label: Get started
+      - label: foto
         altText: ''
         url: /
         showIcon: false
@@ -37,7 +35,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: modalità
       color: text-primary
       type: Badge
     elementId: ''
