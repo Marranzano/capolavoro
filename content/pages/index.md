@@ -70,8 +70,6 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md
